@@ -1,0 +1,1 @@
+The parser consumes a `.tm` file.
